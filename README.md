@@ -35,7 +35,7 @@
   &nbsp;
     <a href="https://pixgg.com/DarkMode"><img width="7%" alt="Doações" title="Doações" src="https://i.imgur.com/RJ6BcN9.png"/></a>
   &nbsp;
-    <a href="https://discord.gg/platformdestroyer"><img width="7%" alt="Discord ( PD )" title="Discord ( PD )" src="https://i.imgur.com/AOX1nxB.png"/></a>
+    <a href="https://discord.gg/platformdestroyer"><img width="7%" alt="Discord ( PDf title="Discord ( PD )" src="https://i.imgur.com/AOX1nxB.png"/></a>
 </p>
 
 ---
